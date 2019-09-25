@@ -1,0 +1,63 @@
+/*Ajustes para los titulos*/
+h1, h2{
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+/*Ajustes para los parrafos*/
+p{
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+}
+/*Ajustes del div que contiene todo*/
+div#general{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: #008b4f;
+}
+/*Ajustes de tamaño para la caja derecha*/
+div#zona{
+    float: right;
+    width: 340px;
+    height: 800px;
+    background-color: #e4e8eb;
+}
+/*Centro de imagenes*/
+div#zona-1{
+    text-align: center;
+}
+
+div#zona-2{
+    text-align: center;
+}
+
+div#zona-3{
+    text-align: center;
+}
+/*Centrado de imagenes y titulo*/
+div#principal{
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    background-color: #e4e8eb;
+}
+/*Ajuste de tamaño en div con contenido principal*/
+div#body{
+    margin-top: 20px;
+    width: 600px;
+    height: 580px;
+    background-color: #e4e8eb;
+}
+
+div#titulo-body{
+    width: 600px;
+    height: 50px;
+    text-align: center;
+}
+
+div#imagen-body{
+    text-align: center;
+}
